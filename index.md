@@ -1,36 +1,63 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/upandreacornejo/Hosting/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<html>
+<head>
+<title> HOJA DE VIDA DE ANDREA CORNEJO </title>
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+</head>
+<body bgcolor="blue">
+<p><b><h1><font> HOJA DE VIDA DE ANDREA CORNEJO</font>  </H1></b></P>
+<hr width="600" SIZE =15 bgcolor >
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+<P><b><H2>DATOS PRESONALES</H2></b></P>
+<TR>
+<TABLE border="1" width="60%" height="160" >
+<TR><TD><B>Cedula:  </B></TD> <TD>4-105-978</TD>
+<TR><TD><B>Apellidos:  </B></TD> <TD>Cirnejo Ruiz</TD>  
+<TR><TD><B>Nombres:  </B></TD> <TD>Andrea Paola</TD>
+<TR><TD><B>Nacionalidad:  </B></TD> <TD>panameña</TD>
+<TR><TD><B>Lugar de Nacimiento:  </B></TD>
+  <TD>Ciudad de Panama</TD>
+<TR><TD><B>Fecha de Nacimiento:  </B></TD>
+  <TD> 28 de Agosto  de 2001 </TD>
+  <TR><TD><B>Edad:  </B></TD>
+  <TD>19 </TD>
+<TR><TD><B>Estado Civil:  </B></TD>
+  <TD>Soltera
+<TR><TD><B>Direccion:  </B></TD>
+  <TD> Brisas del Oeste </TD>
+<TR><TD><B>Email:  </B></TD>
+  <TD> a28coruz@hotmail.com </TD>
+<TR><TD><B>Telefono:  </B></TD>
+  <TD> 6645-7122 </TD>
+<TR><TD><B>Celular:  </B></TD>
+  <TD> 6645-7122 </TD>
 
-```markdown
-Syntax highlighted code block
+</TABLE>
 
-# Header 1
-## Header 2
-### Header 3
+<P><b><H2>ESTUDIOS REALIZADOS</H2></b></P>
 
-- Bulleted
-- List
+<UL>
 
-1. Numbered
-2. List
+<BR><b>Escuela</b></BR>
+<BR><li>YMCA School Panama</li></BR>
+<BR><b>Superior</b></BR>
+<BR><li>Universidad de Panama </li></BR>
+</UL>
 
-**Bold** and _Italic_ and `Code` text
+<P><b><H2><b>REFERENCIAS PERSONALES</H2></b></P>
 
-[Link](url) and ![Image](src)
-```
+<TABLE BORDER="1"width="49%" height="45">
+<tr><td><b>Karla Aveo </b></td><TD>6219-7601</td></tr>
+<tr><td><b>Pepe Villegas </b></td><td>6219-7602</td></tr>
+<tr><td><b>Alejandro Vococo </b></td><td>6219-7603</td></tr>
+</table>
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/upandreacornejo/Hosting/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+</TABLE>
+</body>
+</html>
 
 ### Support or Contact
 
